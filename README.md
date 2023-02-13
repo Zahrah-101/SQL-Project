@@ -1,6 +1,7 @@
 # SQL-PROJECT
 
 ABOUT THE DATA
+
 The data was imported from Kaggle Site. The dataset is a simple dataset of the compilation of salaries of different data science roles accross the US and Uk with repect to their various job types. The dataset contains 12 columns and 607 rows.
 
 The colums make up the:
@@ -28,6 +29,7 @@ The colums make up the:
 
 
 DATA ANALYSIS USING SQL COMMANDS
+
 After physcally viewing and making reserach on the collected dataset, it was quite obvious that the dataset is a simple, straightforward dataset with little to no errors. To further confirm this, the data was cleaned and analysed using the Microsoft SQL Server 2022 version. Various SQL commands were also used to view the dataset for duplicates, missing values and incorrect and inconsistent data. The entire dataset was queried and analysed for further comprehenshion of the dataset. 
 
 The file containing the commands has been attached to this repository for further details.
